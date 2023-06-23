@@ -1,1 +1,1 @@
-# Responsible_AI
+Responsible AI Toolbox is a suite of tools providing a collection of model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libraries empower developers and stakeholders of AI systems to develop and monitor AI more responsibly, and take better data-driven actions.(Reference- https://pypi.org/project/responsibleai/)
